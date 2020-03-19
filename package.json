@@ -1,0 +1,19 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Challenges.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascode94/dice-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ascode94/dice-game/issues"
+  },
+  "homepage": "https://github.com/ascode94/dice-game#readme"
+}
